@@ -22,30 +22,31 @@ Test mode (*#0*#)
 - Disable Factory mode
 - MTP mode
 
-Factory reset
-Enable secret code for Verizon
-ADB mode
+- Factory reset
+- Enable secret code for Verizon
+- ADB mode
 
-Change CSC
-Remove Samsung account (This function works to remove the account in Settings only, not supporting locked state)
-Enable Toggle mobile data (for some AT&T phone)
-Download mode
+- Change CSC
+- Remove Samsung account (This function works to remove the account in Settings only, not supporting locked state)
+- Enable Toggle mobile data (for some AT&T phone)
+- Download mode
 
-Exit Download mode
-Soft brick Fix
-FRP Android 5/6 (support some models. If you see an error when trying, that means your device is not supported)
-Odin Flash
+- Exit Download mode
+- Soft brick Fix
+- FRP Android 5/6 (support some models. If you see an error when trying, that means your device is not supported)
+- Odin Flash
 
-Save recent flash files
-Auto-detect file and select slot
-Auto-extract for ZIP file
-Ignore MD5 checksum
-Misc
+- Save recent flash files
+- Auto-detect file and select slot
+- Auto-extract for ZIP file
+- Ignore MD5 checksum
 
-Check Driver signature enforcement status
-Disable/Enable Driver signature enforcement
-Install Samsung USB driver
-Install VC++ 2015 (for ADB works)
+**Misc**
+
+- Check Driver signature enforcement status
+- Disable/Enable Driver signature enforcement
+- Install Samsung USB driver
+- Install VC++ 2015 (for ADB works)
 
 
 
