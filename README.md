@@ -53,5 +53,12 @@ Test mode (*#0*#)
 
 ![image](https://user-images.githubusercontent.com/75455555/219976618-917e2f86-33bf-4a06-9a74-8958d4a905c2.png)
 
+![image](https://user-images.githubusercontent.com/75455555/219976845-fec2dd11-0bdf-46ad-9098-083ac83c61be.png)
+
+![image](https://user-images.githubusercontent.com/75455555/219976849-3f5f991c-16f8-4676-8a8a-91199b07ae03.png)
+
+![image](https://user-images.githubusercontent.com/75455555/219976858-b3e78ba3-7e4b-4386-867f-db950367408f.png)
+
+![image](https://user-images.githubusercontent.com/75455555/219976869-ba449dd4-75a1-458e-b7cb-377d15fffca4.png)
 
 
