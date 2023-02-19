@@ -15,12 +15,12 @@
 
 Test mode (*#0*#)
 
--Remove FRP
--Remove FRP new security
--Factory reset
--Disable Knox
--Disable Factory mode
--MTP mode
+- Remove FRP
+- Remove FRP new security
+- Factory reset
+- Disable Knox
+- Disable Factory mode
+- MTP mode
 
 Factory reset
 Enable secret code for Verizon
